@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+moje prve repository
+
+toto je moj prvy branch
